@@ -1,2 +1,2 @@
-# MisPracticasPHPCodeigniter3
-Desarrollo de enseñanza y procesos de mejora de habilidades
+# mispracticas
+Crud básico en codeigniter 3
